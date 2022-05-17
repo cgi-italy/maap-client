@@ -1,4 +1,7 @@
+:warning: The repository was moved here: https://github.com/MAAP-Project/maap-edav-esa-front
+
 # MAAP EDAV
+
 Source code for the ESA Multi-Mission Algorithm and Analysis Platform (MAAP) Enhanced Data Visualization (EDAV) client
 
 The application is avaiable here: https://liferay.val.esa-maap.org/web/guest/explore
